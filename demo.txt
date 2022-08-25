@@ -1,0 +1,3 @@
+4 series 7 simple toal_no_resistor5
+toal_no_resistor4
+toal_no_resistor2
